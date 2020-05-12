@@ -13,3 +13,7 @@ _What is this? This is just an editor where you can start writing. The gym teach
 <br>
 
 > A lot of the writing staff related to that. It was always painful when our parents started dating new people. Especially new guys that just had sex with your mom.
+
+* **Try**
+* **This**
+* **Out**
