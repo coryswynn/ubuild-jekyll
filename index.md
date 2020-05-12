@@ -18,6 +18,16 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
+    class="light">the Blocks to create sites quickly</span>
+  content: Quickly assemble and create custom sites with 16 design blocks for seven
+    different sections.
+  media:
+    image: "/uploads/2018/06/21/blocks-split.png"
+    alt_text: uBuild Blocks Mock-Up
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
@@ -31,16 +41,6 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
 - template: content-feature
   block: feature-1
   media_alignment: Right
