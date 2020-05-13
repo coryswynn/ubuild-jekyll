@@ -15,7 +15,6 @@ A lot of the writing staff related to that. It was always painful when our paren
 
 <br>
 
-* 
-  * try
-  * this
-  * out
+1. try
+2. this
+3. out
