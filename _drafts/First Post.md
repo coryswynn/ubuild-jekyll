@@ -15,6 +15,6 @@ A lot of the writing staff related to that. It was always painful when our paren
 
 <br>
 
-* **_* Try_**
-* *** This**
-* *** Out**
+* try
+* this
+* out
