@@ -10,6 +10,8 @@ fields:
 - type: text
   name: headline
   label: Headline
+  description: this is headline
+  hidden: false
 - type: textarea
   name: content
   label: Content
